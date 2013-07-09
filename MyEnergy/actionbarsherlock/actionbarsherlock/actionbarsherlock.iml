@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="android" name="Android">
+      <configuration>
+        <option name="SELECTED_BUILD_VARIANT" value="debug" />
+        <option name="ASSEMBLE_TASK_NAME" value="bundleDebug" />
+        <option name="ASSEMBLE_TEST_TASK_NAME" value="assembleTest" />
+        <option name="ALLOW_USER_CONFIGURATION" value="false" />
+        <option name="ASSETS_FOLDER_RELATIVE_PATH" value="/src/main/assets" />
+        <option name="LIBRARY_PROJECT" value="true" />
+      </configuration>
+    </facet>
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" value=":MyEnergy:actionbarsherlock" />
+      </configuration>
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="false">
+    <output url="file://$MODULE_DIR$/../../../actionbarsherlock/build/classes/debug" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../actionbarsherlock">
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/debug/assets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/main/assets" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/debug/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/res" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/source/aidl/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/debug/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/debug/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/source/buildConfig/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/debug/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/main/rs" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/main/aidl" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/debug/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/source/rs/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/res/rs/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/source/r/debug" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/main/resources" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/main/jni" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/debug/res" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/instrumentTest/assets" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/source/rs/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/instrumentTest/jni" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/source/aidl/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/instrumentTest/aidl" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/instrumentTest/res" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/source/buildConfig/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/source/r/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/res/rs/test" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/instrumentTest/resources" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/instrumentTest/rs" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/src/instrumentTest/java" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/apk" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/assets" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/bundles" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/classes" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/dependency-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/exploded-bundles" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/incremental" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/libs" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/manifests" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/symbols" />
+      <excludeFolder url="file://$MODULE_DIR$/../../../actionbarsherlock/build/tmp" />
+    </content>
+    <orderEntry type="jdk" jdkName="Android 4.0 Platform" jdkType="Android SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="support-v4-13.0.0" level="project" />
+  </component>
+</module>
+
