@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../AndroidStudioProjects.iml" filepath="$PROJECT_DIR$/../AndroidStudioProjects.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyEnergy/MyEnergy.iml" filepath="$PROJECT_DIR$/MyEnergy/MyEnergy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MyEnergy/MyEnergy-MyEnergy.iml" filepath="$PROJECT_DIR$/MyEnergy/MyEnergy-MyEnergy.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyEnergyProject.iml" filepath="$PROJECT_DIR$/MyEnergyProject.iml" />
     </modules>
   </component>

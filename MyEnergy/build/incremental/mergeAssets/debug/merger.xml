@@ -2,10 +2,10 @@
 <merger>
 
     <dataSet config="main" >
-        <source path="C:\Users\arsenio\AndroidStudioProjects\MyEnergyProject\MyEnergy\src\main\assets" />
+        <source path="C:\Users\arsenio\AndroidStudioProjects\MyEnergy\MyEnergy\src\main\assets" />
     </dataSet>
     <dataSet config="debug" >
-        <source path="C:\Users\arsenio\AndroidStudioProjects\MyEnergyProject\MyEnergy\src\debug\assets" />
+        <source path="C:\Users\arsenio\AndroidStudioProjects\MyEnergy\MyEnergy\src\debug\assets" />
     </dataSet>
 
 </merger>
