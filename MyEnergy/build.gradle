@@ -19,7 +19,7 @@ dependencies {
             'libs/android-async-http-1.4.3.jar',
             'libs/TestFlightLib.jar')
 
-   / compile project(':MyEnergy:actionbarsherlock') /
+    compile project(':ActionBarSherlock:actionbarsherlock')
 
 
 }

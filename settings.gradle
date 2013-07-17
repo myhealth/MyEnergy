@@ -1,1 +1,4 @@
+include ':ActionBarSherlock:actionbarsherlock'
 include ':MyEnergy'
+
+project(':ActionBarSherlock:actionbarsherlock').projectDir = new File('../ActionBarSherlock/actionbarsherlock')
