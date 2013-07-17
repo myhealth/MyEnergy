@@ -1,4 +1,3 @@
-include ':ActionBarSherlock:actionbarsherlock'
-include ':MyEnergy'
+include ':MyEnergy', 'ActionBarSherlock:actionbarsherlock'
 
-project(':ActionBarSherlock:actionbarsherlock').projectDir = new File('../ActionBarSherlock/actionbarsherlock')
+
