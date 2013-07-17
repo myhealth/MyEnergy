@@ -2,6 +2,8 @@
   <library name="TestFlightLib">
     <CLASSES>
       <root url="jar://$PROJECT_DIR$/MyEnergy/libs/TestFlightLib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MyEnergy/libs/TestFlightLib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/MyEnergy/libs/TestFlightLib.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />

@@ -6,7 +6,7 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <!-- From: C:\Users\arsenio\AndroidStudioProjects\MyEnergyProject\MyEnergy\src\main\res\values\strings.xml -->
     <string name="action_settings">Settings</string>
-    <string name="app_name">MyEnergy</string>
+    <string name="app_name">My Energy</string>
     <string name="hello_world">Hello world!</string>
     <!-- From: C:\Users\arsenio\AndroidStudioProjects\MyEnergyProject\MyEnergy\src\main\res\values\styles.xml -->
     <style name="AppBaseTheme" parent="android:Theme.Light">
