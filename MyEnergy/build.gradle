@@ -14,12 +14,15 @@ repositories {
 
 dependencies {
 
-    compile 'com.android.support:support-v4:13.0.+'
-    compile files (
-            'libs/android-async-http-1.4.3.jar',
-            'libs/TestFlightLib.jar')
+    compile project(':ActionBarSherlock:actionbarsherlock')
 
-   / compile project(':MyEnergy:actionbarsherlock') /
+    compile 'com.android.support:support-v4:13.0.+'
+    //compile 'com.actionbarsherlock:parent:4.3.1'
+    //compile 'com.nostra13.universalimageloader:universal-image-loader:1.8.5'
+
+
+    compile fileTree(dir: 'libs', include: '*.jar')
+
 
 
 }

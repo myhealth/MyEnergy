@@ -1,1 +1,3 @@
-include ':MyEnergy'
+include ':MyEnergy', 'ActionBarSherlock:actionbarsherlock'
+
+
